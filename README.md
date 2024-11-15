@@ -3,9 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/alberto-henrique-1715bb177/)
 [![Gmail Badge](https://img.shields.io/badge/-ahmjesus.cic@uesc.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmjesus.cic@uesc.br)](mailto:ahmjesus.cic@uesc.br)
 
+- 💡 Desenvolvedor Full Stack na [Aplopes](https://aplopes.com/)
 - 🎓 Estudante de Ciência da Computação na [Universidade Estadual de Santa Cruz](http://www.uesc.br/)
-- 🌐 Estudante da Residencia de software TIC 18 - [Cepedi](https://residenciatic18.cepedi.org.br/)
-- 💡 Buscando uma carreira na area de desenvolvimento
+- 🌐 Residente na [Residencia de software TIC 18](https://residenciatic18.cepedi.org.br/) do Cepedi, Trilha de .Net
+
 
 [![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertolunia&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 <!---
